@@ -1,0 +1,22 @@
+body{
+  color: rgb(255, 0, 0);
+  font-family: arial;
+  margin: 20px;
+}
+
+div{
+  min-height: 20vh;
+  width:97vw;
+}
+
+h1{
+  text-align: center;
+  font-size: 4em;
+}
+img{
+  display: flex;
+  justify-content: center;
+  padding:20px;
+  margin: 0 auto;
+  border-radius: 40px;
+}
