@@ -1,0 +1,38 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+body{
+  color:rgb(31, 178, 186);
+  font-family: arial;
+  margin: 20px;
+}
+div{
+  display: flex;
+  justify-content: center;
+  padding:20px;
+  margin: 0 auto;
+  border-radius: 40px;
+  }
+ol{
+  padding: 10;
+  margin-bottom: 0%;
+  font-size: 1.5em;
+  color:rgb(31, 178, 186);
+  }
+ul{
+  list-style: none;
+  padding: 10;
+  margin-bottom: 0%;
+  font-size: 1.5em;
+  color:rgb(31, 178, 186);
+  }
+a{
+color:#ffffff;
+background-color: #000000
+  }
+form{
+  margin-top:4%;
+  margin-bottom: 2%;
+  color:rgb(31, 178, 186);
+}
+textarea{
+margin-bottom:4%;
+}
